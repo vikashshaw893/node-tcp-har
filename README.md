@@ -1,2 +1,2 @@
-# node-tcp-har
-node-tcp-har
+# node-typescript-tcp-har
+node-typescript-tcp-har
